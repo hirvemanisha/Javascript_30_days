@@ -1,0 +1,1 @@
+console.log("comments can make code redable")
